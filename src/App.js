@@ -8,6 +8,7 @@ class App extends Component {
     return (
       <div>
         <p>Hello! {name.toUpperCase()}</p>
+        <div className='box'/>
         <p>aiee</p>
       </div>
     );
